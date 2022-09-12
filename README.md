@@ -27,7 +27,9 @@ Module 19 Challenge: Text Editor
  ## Project Details
 
  ## Technologies Used
-
+    * [Express.js](https://expressjs.com/)
+    * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+    * [Webpack](https://webpack.js.org/)
  ## Getting Started
 
  ## Installation
